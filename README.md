@@ -6,8 +6,8 @@
 
 
 🔗 Connect with me : 
-<div style="margin-left: 20px;">
-  <a href="https://linkedin.com/in/chirag-kp" target="_blank"><a href="#"><img src="https://img.icons8.com/color/48/linkedin.png" height="30"/></a> 
+<div style="margin-left: 2000px;">
+  <a href="https://linkedin.com/in/chirag-kp" target="_blank"><a href="#"><img src="https://img.icons8.com/color/48/linkedin.png" height="45" widdth="45"/></a> 
 </div>
 
 
