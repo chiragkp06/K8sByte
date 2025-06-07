@@ -6,9 +6,10 @@
 
 
 🔗 Connect with me : 
-<p> 
-  <a href="https://linkedin.com/in/chirag-kp" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="45" width="45" style="vertical-align: middle; margin-left: 500px" ;/></a> 
-</p>
+<div style="margin-left: 20px;">
+  <a href="https://linkedin.com/in/chirag-kp" target="_blank"><a href="#"><img src="https://img.icons8.com/color/48/linkedin.png" height="30"/></a> 
+</div>
+
 
 ✨About Me:
 - I am a aspiring Full Stack Developer and DevOps enthusiast.
