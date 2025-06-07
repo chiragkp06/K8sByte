@@ -1,11 +1,11 @@
 <h1 align="Left">Hi there 👋</h1>
 
 - 🛠️ Building practical cloud-native solutions with code and curiosity
-- 🌱 I’m currently Java + Spring Boot, DevOps, Cloud (AWS)
+- 🌱 I’m currently learning Java + Spring Boot, DevOps, Cloud (AWS)
 - ⚡ Fun fact: I enjoy watching F1 🏎️ , play basketball & love playing video games.
 
 🔗 Connect with me:
-<p>
+<p margin-left : 40px>
    <a href="https://linkedin.com/in/chirag-kp" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
 </a>
 </p>
