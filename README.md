@@ -1,13 +1,16 @@
 <h1 align="Left">Hi there 👋</h1>
 
-🧑‍💻 About Me : 
-
 - 🛠️ Building practical cloud-native solutions with code and curiosity
 - 🌱 I’m currently Java + Spring Boot, DevOps, Cloud (AWS)
 - ⚡ Fun fact: I enjoy watching F1 🏎️ , play basketball & love playing video games.
 
-📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chirag-kp)
+🔗 Connect with me:
+<p align="left">
+      <a href="https://linkedin.com/in/chirag-kp" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40"/></a>
+</p>
+
+✨  About Me
+I am a aspiring Full Stack Developer and DevOps enthusiast.
 
 <!---
 K8sByte/K8sByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
