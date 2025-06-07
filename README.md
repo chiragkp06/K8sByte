@@ -10,8 +10,15 @@
 </a>
 </p>
 
-✨  About Me:
+✨About Me:
 - I am a aspiring Full Stack Developer and DevOps enthusiast.
+
+🧑‍💻Tech I work on : 
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="25"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" height="25"/>
+  <img src="https://img.icons8.com/color/48/git.png" height="25"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" height="25"/>
+  
 
 <!---
 K8sByte/K8sByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
