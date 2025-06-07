@@ -10,8 +10,8 @@
 </a>
 </p>
 
-✨  About Me
-I am a aspiring Full Stack Developer and DevOps enthusiast.
+✨  About Me:
+- I am a aspiring Full Stack Developer and DevOps enthusiast.
 
 <!---
 K8sByte/K8sByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
