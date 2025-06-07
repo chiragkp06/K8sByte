@@ -11,7 +11,6 @@
   <img src="https://img.icons8.com/color/48/linkedin.png" height="45" width="45"/>
 </a>
 
-
 ✨About Me:
 - I am a aspiring Full Stack Developer and DevOps enthusiast.
 
