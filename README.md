@@ -19,7 +19,7 @@
 <img src="https://img.icons8.com/color/48/spring-logo.png" height="45" width="45"/>
 <img src="https://img.icons8.com/color/48/git.png" height="45" width="45"/>
 <img src="https://img.icons8.com/color/48/mysql-logo.png" height="45" width="45"/>
-<img src="https://img.icons8.com/color/48/jenkins-logo.png" height="45" width="45" "/>
+<img src="https://img.icons8.com/color/48/jenkins.png" height="45" width="45" "/>
 </p>
 
 <!---
