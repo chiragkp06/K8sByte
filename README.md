@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I enjoy watching F1 🏎️ , play basketball & love playing video games.
 
 🔗 Connect with me:
-<p align="left">
+<p align="center">
            <a href="https://linkedin.com/in/chirag-kp" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
 </a>
 </p>
