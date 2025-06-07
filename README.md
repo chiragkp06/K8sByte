@@ -6,8 +6,10 @@
 
 🔗 Connect with me:
 <p>
-   <a href="https://linkedin.com/in/chirag-kp" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="45" width="45"/>
-</a>
+  :&nbsp;
+  <a href="https://linkedin.com/in/chirag-kp" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="45" width="45" style="vertical-align: middle; margin-left: 5px;"/>
+  </a>
 </p>
 
 ✨About Me:
