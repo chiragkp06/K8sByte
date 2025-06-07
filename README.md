@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Java + Spring Boot, DevOps, Cloud (AWS)
 - ⚡ Fun fact: I enjoy watching F1 🏎️ , play basketball & love playing video games.
 
-<p style="font-size: 18px;">
-  🔗 Connect with me:<a href="https://linkedin.com/in/chirag-kp" target="_blank" style="margin-left: 8px; vertical-align: middle;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="20" width="20" style="vertical-align: middle;"/>
-  </a>
+
+🔗 Connect with me :
+<p>
+   <a href="https://linkedin.com/in/chirag-kp" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="45" width="45"/></a>
 </p>
 
 ✨About Me:
