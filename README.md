@@ -14,7 +14,7 @@
 ✨About Me:
 - I am a aspiring Full Stack Developer and DevOps enthusiast.
 
-🧑‍💻Tech I work on : 
+- 🧑‍💻Tech I work on : 
 <p align="center">
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="45" width="45"/>
 <img src="https://img.icons8.com/color/48/spring-logo.png" height="45" width="45"/>
