@@ -1,4 +1,4 @@
-<h1 align="Left">Hi there 👋</h1>
+<h1 align="Left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 - 🛠️ Building practical cloud-native solutions with code and curiosity
 - 🌱 I’m currently learning Java + Spring Boot, DevOps, Cloud (AWS)
