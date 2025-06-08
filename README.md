@@ -22,7 +22,7 @@
 <img src="https://img.icons8.com/color/48/git.png" height="45" width="45"/>
 <img src="https://img.icons8.com/color/48/mysql-logo.png" height="45" width="45"/>
 <img src="https://img.icons8.com/color/48/jenkins.png" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/ryze-slatter/ryze-slatter/main/assets/aws-logo.svg" alt="AWS" width="45" height="45"/>
 </p>
 
 <!---
