@@ -22,7 +22,7 @@
 <img src="https://img.icons8.com/color/48/git.png" height="45" width="45"/>
 <img src="https://img.icons8.com/color/48/mysql-logo.png" height="45" width="45"/>
 <img src="https://img.icons8.com/color/48/jenkins.png" height="45" width="45"/>
-<img src="https://img.icons8.com/color/48/aws-logo.png" height="45" width="45"/>
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" height ="45" width="45"/>
 </p>
 
 <!---
