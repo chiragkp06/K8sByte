@@ -6,7 +6,7 @@
 
 
 🔗 Connect with me:
-<p margin-left: 40px>
+<p align:center>
 <a href="https://linkedin.com/in/chirag-kp" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" height="45" width="45"/>
 </a>
