@@ -1,4 +1,4 @@
-<h1 align="Left">Hi there 👋</h1>
+<h1 align="Left">Hi there ![image](https://github.com/user-attachments/assets/b1bcd5e0-a4d2-4d6b-83c3-362e5f8348b6)</h1>
 
 - 🛠️ Building practical cloud-native solutions with code and curiosity
 - 🌱 I’m currently learning Java + Spring Boot, DevOps, Cloud (AWS)
