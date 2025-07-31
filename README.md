@@ -19,7 +19,7 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
   <img src="https://img.icons8.com/color/48/javascript--v1.png" height="45" width="45" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/react-native.png" height="45" width="45" title="React.js"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" height="45" width="45" title="Node.js"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" height="45" width="45" title="Express.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="45" title="Express.js" />
   <img src="https://img.icons8.com/color/48/mysql-logo.png" height="45" width="45" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" height="45" width="45" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/jenkins.png" height="45" width="45" title="Jenkins"/>
