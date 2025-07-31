@@ -1,31 +1,39 @@
-<h1 align="Left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
 
-- 🛠️ Building practical cloud-native solutions with code and curiosity.
-- 🌱 I’m currently learning Java + Spring Boot, DevOps, Cloud (AWS).
-- ⚡ Fun fact: I enjoy watching F1 🏎️ , play basketball & love playing video games.
+I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusiast** focused on building scalable web applications and automating cloud-native workflows.
 
+---
 
-🔗 Connect with me:
-<p align:center>
-<a href="https://linkedin.com/in/chirag-kp" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" height="45" width="45"/>
-</a>
+### 🚀 About Me
+- 💻 I build practical cloud-native solutions with code and curiosity.
+- 🌱 Currently learning **Java + Spring Boot**, **AWS Cloud**, and **DevOps practices**.
+- 🎯 Aiming for opportunities in **Full Stack Development** and **Cloud Engineering**.
+- ⚡ Fun Fact: I love watching **F1 🏎️**, playing **basketball**, and gaming.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="45" width="45" title="Java"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" height="45" width="45" title="Spring Boot"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" height="45" width="45" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" height="45" width="45" title="React.js"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" height="45" width="45" title="Node.js"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" height="45" width="45" title="Express.js"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" height="45" width="45" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" height="45" width="45" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png" height="45" width="45" title="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/docker.png" height="45" width="45" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="45" width="45" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/git.png" height="45" width="45" title="Git"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/visual-studio-code-2019.png" height="45" width="45" title="VS Code"/>
 </p>
 
-✨About Me:
-- I am a aspiring Full Stack Developer and DevOps enthusiast.
+---
 
-- 🧑‍💻Tech I work on : 
-<p align="center">
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="45" width="45"/>
-<img src="https://img.icons8.com/color/48/spring-logo.png" height="45" width="45"/>
-<img src="https://img.icons8.com/color/48/git.png" height="45" width="45"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png" height="45" width="45"/>
-<img src="https://img.icons8.com/color/48/jenkins.png" height="45" width="45"/>
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" height="45" width="45"/>
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/chirag-kp" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="45" width="45" alt="LinkedIn"/>
+  </a>
 </p>
-
-<!---
-K8sByte/K8sByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
