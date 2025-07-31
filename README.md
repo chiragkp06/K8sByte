@@ -5,10 +5,10 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
 ---
 
 ### 🚀 About Me
-- 💻 I build practical cloud-native solutions with code and curiosity.
-- 🌱 Currently learning **Java + Spring Boot**, **AWS Cloud**, and **DevOps practices**.
-- 🎯 Aiming for opportunities in **Full Stack Development** and **Cloud Engineering**.
-- ⚡ Fun Fact: I love watching **F1 🏎️**, playing **basketball**, and gaming.
+💻 I build practical cloud-native solutions with code and curiosity.
+🌱 Currently learning **Java + Spring Boot**, **AWS Cloud**, and **DevOps practices**.
+🎯 Aiming for opportunities in **Full Stack Development** and **Cloud Engineering**.
+⚡ Fun Fact: I love watching **F1 🏎️**, playing **basketball**, and gaming.
 
 ---
 
@@ -30,7 +30,7 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
 ---
 
 ### 🔗 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/chirag-kp" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="45" width="45" alt="LinkedIn"/>
   </a>
