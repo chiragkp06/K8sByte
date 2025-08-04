@@ -4,7 +4,7 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 -💻 I build practical cloud-native solutions with code and curiosity.
 -🌱 Currently learning **Java + Spring Boot**, **AWS Cloud**, and **DevOps practices**.
 -🔁 Love solving problems and continuously **iterating** on what I build
