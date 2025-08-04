@@ -3,7 +3,6 @@
 
 I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusiast** focused on building scalable web applications and automating cloud-native workflows.
 
----
 
 ## 🚀 About Me
 -💻 I build practical cloud-native solutions with code and curiosity.
@@ -14,7 +13,7 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
----
+
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
@@ -35,7 +34,6 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
----
 
 ### 🔗 Connect with Me
 <p align="center">
