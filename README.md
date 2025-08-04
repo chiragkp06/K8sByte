@@ -6,10 +6,10 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragkp06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile" /> </p>
 
 ## 🚀 About Me
--💻 I build practical cloud-native solutions with code and curiosity.
--🌱 Currently learning **Java + Spring Boot**, **AWS Cloud**, and **DevOps practices**.
--🔁 Love solving problems and continuously **iterating** on what I build
--⚡ Fun Fact: I love watching **F1 🏎️**, playing **basketball**, and gaming.
+*💻 I build practical cloud-native solutions with code and curiosity.
+*🌱 Currently learning **Java + Spring Boot**, **AWS Cloud**, and **DevOps practices**.
+*🔁 Love solving problems and continuously **iterating** on what I build
+*⚡ Fun Fact: I love watching **F1 🏎️**, playing **basketball**, and gaming.
 
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
