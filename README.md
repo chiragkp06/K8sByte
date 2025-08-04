@@ -11,6 +11,9 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
 -🔁 Love solving problems and continuously **iterating** on what I build
 -⚡ Fun Fact: I love watching **F1 🏎️**, playing **basketball**, and gaming.
 
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -29,7 +32,9 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
   <img src="https://img.icons8.com/color/48/git.png" height="45" width="45" title="Git"/>
 </p>
 
-
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 ---
 
 ### 🔗 Connect with Me
@@ -39,3 +44,6 @@ I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusias
   </a>
 </p>
 
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
