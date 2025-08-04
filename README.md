@@ -1,7 +1,7 @@
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, Chirag K P</h1>
-<h3 align="center">Passionate **Full Stack Developer** and **DevOps enthusiast** focused on building scalable web applications and automating cloud-native workflows.</h3>
+<h3 align="center">Passionate Full Stack Developer and DevOps enthusiast focused on building scalable web applications and automating cloud-native workflows.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragkp06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile" /> </p>
 
