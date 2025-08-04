@@ -3,7 +3,7 @@
 
 I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusiast** focused on building scalable web applications and automating cloud-native workflows.
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragkp06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile" /> </p>
 ## 🚀 About Me
 -💻 I build practical cloud-native solutions with code and curiosity.
 -🌱 Currently learning **Java + Spring Boot**, **AWS Cloud**, and **DevOps practices**.
