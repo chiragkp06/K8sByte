@@ -1,5 +1,5 @@
 ![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
-<h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
 
 I'm **Chirag K P**, a passionate **Full Stack Developer** and **DevOps enthusiast** focused on building scalable web applications and automating cloud-native workflows.
 
